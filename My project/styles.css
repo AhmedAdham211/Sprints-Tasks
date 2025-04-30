@@ -1,0 +1,33 @@
+#first{
+    color: blue;
+}
+#second{
+    color: yellow;
+    background-color: black;
+}
+
+.size{
+    font-size: 20px;
+}
+
+#third{
+    font-size: 25px;
+    color: red;
+}
+
+ul > li{
+    font-style: italic;
+    color: red;
+}
+
+h4 ~ p{
+    color: yellow;
+}
+
+
+
+
+
+
+
+
